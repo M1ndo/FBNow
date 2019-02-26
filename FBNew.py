@@ -1,4 +1,4 @@
-##Author : ybenel 
+##Author : ybenel
 from subprocess import call
 from bs4 import BeautifulSoup
 import requests
