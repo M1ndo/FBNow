@@ -2,12 +2,13 @@
 
 Download Videos And Audios In High Quality
 
-Made By Ybenel
+## __Author: Ybenel  
 
-Installation : 
-
-git clone https://github.com/m1ndo/FBNow.git
+## Installation : 
+```
+git clone https://github.com/m1ndo/FBNow
 
 cd FBNow && chmod +x FBNew.py
 
-python3 FBNew.py 
+python3 FBNew.py
+```
