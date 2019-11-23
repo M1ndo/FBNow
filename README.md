@@ -2,7 +2,7 @@
 
 Download Videos And Audios In High Quality
 
-## __Author: Ybenel  
+## __Author: Ybenel
 
 ## Installation : 
 ```
